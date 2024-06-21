@@ -10,6 +10,11 @@ cd Employee-Management-System
 code . ## for vscopde
 ```
 
+## Prerequisites
+``Node.js and npm (for Angular)``
+``.NET 8 SDK``
+``SQLite``
+
 ## Requirements: for backend 
 **Add NuGet packages**
 ```
